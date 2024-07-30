@@ -35,18 +35,18 @@ This project involves building a recommender system using both content-based and
 ## 2. Exploratory Data Analysis (EDA) <a class="anchor" id="2"></a>
 The EDA section involves analyzing the dataset to understand user preferences and item characteristics. Key activities include:
 
-**Data Inspection:** Reviewing the structure and contents of the data.
-**Feature Analysis:** Exploring item descriptions and user ratings.
-**Visualization:** Creating charts and graphs to visualize user preferences and item popularity. 
+- **Data Inspection:** Reviewing the structure and contents of the data.
+- **Feature Analysis:** Exploring item descriptions and user ratings.
+- **Visualization:** Creating charts and graphs to visualize user preferences and item popularity. 
 
 
 ## 3. Model Implementation <a class="anchor" id="3"></a>
 
 # Content-Based Filtering
-**Approach:** Utilizes TF-IDF vectorization to analyze and recommend items based on their content.
-**Implementation:** Details on how TF-IDF features are extracted and used for recommendations.
+- **Approach:** Utilizes TF-IDF vectorization to analyze and recommend items based on their content.
+- **Implementation:** Details on how TF-IDF features are extracted and used for recommendations.
 Collaborative Filtering
-**Approach:** Employs an SVD model, which is pre-trained and pickled, to provide recommendations based on user-item interactions.
+- **Approach:** Employs an SVD model, which is pre-trained and pickled, to provide recommendations based on user-item interactions.
 Implementation: Explanation of the SVD model and how it predicts user preferences.
 
  
@@ -55,23 +55,23 @@ Implementation: Explanation of the SVD model and how it predicts user preference
 
 The Streamlit app features an intuitive interface with the following pages:
 
-**Home Page:** Introduction and app navigation.
-**Recommendations Page:** Allows users to input preferences and receive recommendations from both content-based and collaborative approaches.
-**EDA Page:** Displays visualizations and insights from the exploratory data analysis.
-**About Page:** Provides information about the team and the project.
+- **Home Page:** Introduction and app navigation.
+- **Recommendations Page:** Allows users to input preferences and receive recommendations from both content-based and collaborative approaches.
+- **EDA Page:** Displays visualizations and insights from the exploratory data analysis.
+- **About Page:** Provides information about the team and the project.
 
 ## 5. App User Guide<a class="anchor" id="5"></a>
 
-**Run the App:** Execute the Streamlit app using the command streamlit run app.py.
-**Explore Recommendations:** Navigate to the "Recommendations Page" to input preferences and view recommendations from both models.
-**View EDA Insights:** Check the "EDA Page" for visualizations and data analysis results.
-**Learn More:** Visit the "About Page" to learn more about the team and the project.
+- **Run the App:** Execute the Streamlit app using the command streamlit run app.py.
+- **Explore Recommendations:** Navigate to the "Recommendations Page" to input preferences and view recommendations from both models.
+- **View EDA Insights:** Check the "EDA Page" for visualizations and data analysis results.
+- **Learn More:** Visit the "About Page" to learn more about the team and the project.
 
 ## 6. Future Enhancements <a class="anchor" id="6"></a>
 
-**Model Improvements:** Incorporate more advanced models and techniques.
-**User Feedback Integration:** Implement user feedback mechanisms to refine recommendations.
-**Enhanced UI Features:** Add more interactive elements and customization options.
+- **Model Improvements:** Incorporate more advanced models and techniques.
+- **User Feedback Integration:** Implement user feedback mechanisms to refine recommendations.
+- **Enhanced UI Features:** Add more interactive elements and customization options.
   
 
 ## 7. Team Members<a class="anchor" id="team-members"></a>
