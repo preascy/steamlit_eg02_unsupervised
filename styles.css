@@ -1,0 +1,7 @@
+/* style.css */
+body {
+    background-image: url("path/to/C:\Users\Huawei\Documents\git projects\steamlit_eg02_unsupervised/background_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
