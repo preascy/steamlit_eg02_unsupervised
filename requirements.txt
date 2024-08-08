@@ -14,7 +14,7 @@ jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
-matplotlib.pyplot as plt
+matplotlib==3.4.1
 mdurl==0.1.2
 numpy==2.0.0
 packaging==24.1
