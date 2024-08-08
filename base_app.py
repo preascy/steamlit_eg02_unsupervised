@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
-pip uninstall scikit-learn
-pip install scikit-learn
+!pip install sklearn
 import sklearn
 from sklearn.decomposition import TruncatedSVD
 import matplotlib.pyplot as plt
